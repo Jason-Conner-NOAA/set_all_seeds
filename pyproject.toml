@@ -1,0 +1,17 @@
+[build-system]
+requires = [ "setuptools>=61.0",]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "set-all-seeds"
+version = "0.1.1"
+description = "Set all random seeds for reproducibility in Python, NumPy, and TensorFlow."
+readme = "README.md"
+requires-python = ">=3.7"
+dependencies = [ "numpy", "tensorflow",]
+[[project.authors]]
+name = "Your Name"
+email = "your.email@example.com"
+
+[project.urls]
+Homepage = "https://github.com/yourusername/set-all-seeds"
