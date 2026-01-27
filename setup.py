@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="set-all-seeds",
-    version = "0.1.1",
+    version = "1.0.0",
     description="Set all random seeds for reproducibility in Python, NumPy, and TensorFlow.",
     author="Your Name",
     author_email="your.email@example.com",

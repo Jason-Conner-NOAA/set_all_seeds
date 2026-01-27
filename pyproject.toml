@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "set-all-seeds"
-version = "0.1.1"
+version = "1.0.0"
 description = "Set all random seeds for reproducibility in Python, NumPy, and TensorFlow."
 readme = "README.md"
 requires-python = ">=3.7"
@@ -17,7 +17,7 @@ email = "your.email@example.com"
 Homepage = "https://github.com/yourusername/set-all-seeds"
 
 [tool.bumpversion]
-current_version = "0.1.1"
+current_version = "1.0.0"
 commit = true
 tag = true
 tag_name = "v{new_version}"
