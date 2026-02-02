@@ -1,0 +1,10 @@
+MANIFEST.in
+pyproject.toml
+setup.py
+set_all_seeds/__init__.py
+set_all_seeds/set_all_seeds.py
+set_all_seeds.egg-info/PKG-INFO
+set_all_seeds.egg-info/SOURCES.txt
+set_all_seeds.egg-info/dependency_links.txt
+set_all_seeds.egg-info/requires.txt
+set_all_seeds.egg-info/top_level.txt

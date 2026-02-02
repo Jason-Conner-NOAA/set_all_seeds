@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: set-all-seeds
+Version: 1.0.0
+Summary: Set all random seeds for reproducibility in Python, NumPy, and TensorFlow.
+Home-page: https://github.com/yourusername/set-all-seeds
+Author: Your Name
+Author-email: Your Name <your.email@example.com>
+Project-URL: Homepage, https://github.com/yourusername/set-all-seeds
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+Requires-Dist: tensorflow
+Dynamic: author
+Dynamic: home-page
+Dynamic: requires-python
